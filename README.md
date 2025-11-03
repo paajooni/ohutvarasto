@@ -1,2 +1,3 @@
 # ohutvarasto
-TEKA3003-repo
+
+[![CI](https://github.com/paajooni/ohtuvarasto/actions/workflows/main.yml/badge.svg)]
