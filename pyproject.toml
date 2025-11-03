@@ -1,9 +1,10 @@
 [tool.poetry]
 name = "ohtuvarasto"
+version = "0.1.0"
 description = ""
 authors = ["Matti Luukkainen"]
 readme = "README.md"
-package-mode = false
+packages = [{ include = "ohtuvarasto" }]
 
 [tool.poetry.dependencies]
 python = "^3.10"
