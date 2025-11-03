@@ -4,9 +4,10 @@ version = "0.1.0"
 description = ""
 authors = ["Matti Luukkainen"]
 readme = "README.md"
+packages = [{ include = "ohtuvarasto" }]
 
 [tool.poetry.dependencies]
-python = "^3.10"
+python = "^3.14"
 
 
 [tool.poetry.group.dev.dependencies]
