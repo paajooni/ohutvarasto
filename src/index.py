@@ -23,5 +23,7 @@ def main():
     print(f"Otetut:\nOlut: {olutta.ota_varastosta(1000.0)}, jäljellä: {olutta}")
     print(f"Mehu: {mehua.ota_varastosta(-32.9)}, jäljellä: {mehua}")
 
+#Testataan Lint :) ................................................................
+
 if __name__ == "__main__":
     main()
